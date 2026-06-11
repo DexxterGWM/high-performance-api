@@ -1,4 +1,3 @@
-TEST
 ### <div align='center'> [_REPOSITORY_] : high-performance-api </div>
 
 ---
